@@ -11,8 +11,8 @@ import pandas
 import random
 import smtplib
 
-MY_EMAIL = "chirindzadaniel@gmail.com"
-MY_PASSWORD = "zfhhoqvoldpwgnka"
+MY_EMAIL = ""
+MY_PASSWORD = ""
 
 today = datetime.now()
 today_tuple = (today.month, today.day)
